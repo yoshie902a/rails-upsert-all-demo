@@ -98,7 +98,7 @@ GEM
     parser (2.7.0.5)
       ast (~> 2.4.0)
     pg (1.2.3)
-    puma (4.3.3)
+    puma (4.3.5)
       nio4r (~> 2.0)
     query_diet (0.6.2)
     rack (2.2.2)
